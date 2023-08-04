@@ -2,3 +2,5 @@ git init
 git status
 git clone 
 git remote -v
+
+Hi this is my first assignment of day08
